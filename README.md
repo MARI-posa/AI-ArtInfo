@@ -11,10 +11,10 @@
 - Доступная информация для изучения искусства<br>
 - Отсутствие необходимости ручного поиска<br>
 
-## Как мы его создали?<br>
+## Что было сделано?<br>
 - Этот бот использует датасет, который был частично получен из [сайта](https://allpainters.ru/) с использованием спарсинга данных, а частично собран вручную.<br>
 - Затем применили [модель](https://huggingface.co/Salesforce/blip-image-captioning-large), чтобы сгенерировать описание для каждой картинки.<br>
-- Чтобы бот работал на двух языках использовали модели для перевода датасета: [RU_EN](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en)[EN-RU](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en)<br>
+- Чтобы бот работал на двух языках использовали модели для перевода датасета: [RU_EN](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en) и [EN-RU](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en)<br>
 - Для создания функций бота использовали модели: Resnet50 и TfidfVectorizer.<br>
 
 ## Алгоритм использования бота<br>
