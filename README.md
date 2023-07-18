@@ -25,6 +25,4 @@
 [Мария Козлова](https://github.com/MARI-posa)<br>
 [Виктория Князева](https://github.com/vvv-knyazeva)<br>
 
-Art Guide
-https://drive.google.com/file/d/1nHM5dy5fqjx9ux_hl1cgklgf-ajNrIrF/view?usp=sharing
 
