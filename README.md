@@ -26,6 +26,7 @@
 ## Демонстрация работы<br>
 [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://drive.google.com/file/d/1HrpdTcqWAAC-U3Kurz7LRXzwVFvy5ZeH/preview)
 <iframe src="https://drive.google.com/file/d/1HrpdTcqWAAC-U3Kurz7LRXzwVFvy5ZeH/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://player.vimeo.com/video/850330264?title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="400" height="300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ArtInfo 2"></iframe>
 
 
 ## Над проектом работали:<br>
