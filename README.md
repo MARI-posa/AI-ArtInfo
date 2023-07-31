@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 # AI-ArtInfo
 
 ![](https://i.gifer.com/origin/78/78013ac9f22c3c8f5713d28fa31c6211.gif)
@@ -29,3 +32,5 @@
 [Виктория Князева](https://github.com/vvv-knyazeva)<br>
 
 
+</body>
+</html>
