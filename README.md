@@ -24,7 +24,7 @@
 ![](img/shema.png)
 
 ## Демонстрация работы<br>
-[![Watch the video]](https://drive.google.com/file/d/1HrpdTcqWAAC-U3Kurz7LRXzwVFvy5ZeH/preview)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://drive.google.com/file/d/1HrpdTcqWAAC-U3Kurz7LRXzwVFvy5ZeH/preview)
 <iframe src="https://drive.google.com/file/d/1HrpdTcqWAAC-U3Kurz7LRXzwVFvy5ZeH/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
