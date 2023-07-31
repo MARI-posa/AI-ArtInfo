@@ -25,7 +25,6 @@
 
 ## Демонстрация работы<br>
 [![Watch the video](https://img.freepik.com/free-vector/video-media-player-design_114579-839.jpg)](https://drive.google.com/file/d/1HrpdTcqWAAC-U3Kurz7LRXzwVFvy5ZeH/preview)
-[![Описание картинки](https://img.freepik.com/free-vector/video-media-player-design_114579-839.jpg)](https://drive.google.com/file/d/1HrpdTcqWAAC-U3Kurz7LRXzwVFvy5ZeH/preview)
 
 
 ## Над проектом работали:<br>
