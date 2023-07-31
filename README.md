@@ -20,6 +20,9 @@
 ## Алгоритм использования бота<br>
 ![](img/shema.png)
 
+## Демонстрация работы<br>
+<iframe src="https://drive.google.com/file/d/1HrpdTcqWAAC-U3Kurz7LRXzwVFvy5ZeH/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Над проектом работали:<br>
 [Анна Савицкая](https://github.com/SaviAnn)<br>
 [Мария Козлова](https://github.com/MARI-posa)<br>
